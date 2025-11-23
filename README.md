@@ -31,6 +31,25 @@
 
 ---
 
+## 🎬 Live Demo
+
+**Want to see this template in action?** Check out our fully-functional electronics shop demo!
+
+🛍️ **[View Demo Branch](https://github.com/mohamed00736/NavStarterTemplate/tree/demo/electronics-shop)** - Complete e-commerce app with:
+- 12+ mock products with beautiful UI
+- Shopping cart functionality  
+- Category filtering & search
+- Product details with specifications
+- Modern gradients & animations
+- Real-world navigation flows
+
+```bash
+# Try the demo yourself
+git checkout demo/electronics-shop
+```
+
+---
+
 ## ✨ Features
 
 <table>
