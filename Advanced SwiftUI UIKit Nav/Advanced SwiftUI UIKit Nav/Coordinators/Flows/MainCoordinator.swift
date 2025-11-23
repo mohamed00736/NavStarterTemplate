@@ -57,8 +57,8 @@ private extension MainCoordinator {
     func configureHomeCoordinator() -> HomeCoordinator {
         let flowPresenter = UINavigationController()
         flowPresenter.tabBarItem = UITabBarItem(
-            title: "Home",
-            image: UIImage(systemName: "house"),
+            title: "Shop",
+            image: UIImage(systemName: "bag"),
             tag: NavigationBarTag.home.rawValue
         )
         
